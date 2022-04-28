@@ -1,38 +1,6 @@
-# Webpage template for MILA-affiliated papers
+# Webpage for the paper
 
-[Template live demo](https://mila-udem.github.io/mila-paper-webpage)
-
-# How to use
-
-## Downloading the template
-
-In the repo for which you wish to create a website, create an orphan branch
-called `gh-pages`:
-
-``` bash
-$ cd [repository-name]
-$ git checkout --orphan gh-pages
-$ git rm -rf .
-```
-
-Download and unzip the template into the repository:
-
-``` bash
-$ wget https://github.com/mila-udem/mila-paper-webpage/archive/master.zip
-$ unzip master.zip
-$ mv mila-paper-webpage-master/* ./
-$ rm -r master.zip mila-paper-webpage-master
-```
-
-Add all files as the first commit on this branch:
-
-``` bash
-$ git commit -a -m "First commit"
-```
-
-**Note: once you push to Github, even though your repository may be private, the
-website will be publicly available to anyone using the webpage's web address.
-You should develop locally until you're ready to go public.**
+[Template live demo](https://mahdifarvardin.github.io/MTVital)
 
 ## Building the website locally
 
@@ -66,14 +34,4 @@ self-documented.
 ## Final step
 
 Once you're ready, edit `_config.yml` so that `baseurl` is `"/repository-name"`,
-commit, and push to Github:
-
-``` bash
-$ git push origin gh-pages
-```
-
-Your paper website should shortly be online at
-
-```
-https://[username].github.io/[repository-name]
-```
+commit, and push to Github.
