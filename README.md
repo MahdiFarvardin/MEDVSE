@@ -19,7 +19,8 @@ Codes are included in the ```Code``` folder. Please refer to its ```Readme.md```
 * `label_x.npy` contains the ground truth data ordered as HR(bpm) - SpO2(%) Sampled at 1Hz.
 
 ## License
-This project is released under the MIT license.
+This project's code is released under the MIT license.
+Note that the dataset is released under the [CC BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
 
 
 
