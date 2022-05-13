@@ -9,6 +9,9 @@ This repository contains the code and the proposed dataset (MTHS)
 - [x] Code
 - [ ] Webpage 
 
+## Code
+
+* Codes are included in the 'code' folder. Please refer to its 'Readme.md' for more detailed information. 
 ## Dataset - MTHS: 
 * This folder contains our dataset
 * Each subject has two `.npy` files: mean RGB signals as `signal_x.npy` and ground truth labels as `label_x.npy`, where `x` is the patient id.
