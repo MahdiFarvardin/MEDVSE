@@ -6,7 +6,7 @@ This repository contains the code and the proposed dataset (MTHS)
 
 ## Checklist
 - [x] MTHS dataset
-- [x] Code (to be released soon)
+- [x] Code
 - [ ] Webpage 
 
 ## Dataset - MTHS: 
