@@ -22,7 +22,7 @@ This repository contains the code and the proposed dataset (MTHS)
 ### New! - Fingertip videos
 Due to some requests we now provide the raw fingertip videos. 
 
-Download it from here: [MTHS-FingerVideos](https://drive.google.com/file/d/1zXCAonTwdtOHBJ97OGn_KsfiKLQ191Lo/view?usp=sharing). 
+For downloading videos, please contact us with your academic email and we will provide you download link. 
 
 ## License
 This project's code is released under the MIT license.
