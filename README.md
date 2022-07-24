@@ -6,6 +6,7 @@ This repository contains the code and the proposed dataset (MTHS)
 
 ## Checklist
 - [x] MTHS dataset
+- [x] Finger Videos (New!)
 - [x] Code
 - [ ] Webpage 
 
@@ -17,6 +18,11 @@ This repository contains the code and the proposed dataset (MTHS)
 * Each subject has two `.npy` files: mean RGB signals as `signal_x.npy` and ground truth labels as `label_x.npy`, where `x` is the patient id.
 * `signal_x.npy` contains the mean signals ordered as R, G, and then B sampled at 30Hz.
 * `label_x.npy` contains the ground truth data ordered as HR(bpm) - SpO2(%) Sampled at 1Hz.
+
+### New! - Fingertip videos
+Due to some requests we now provide the raw fingertip videos. 
+
+Download it from here: [MTHS-FingerVideos](https://drive.google.com/file/d/1zXCAonTwdtOHBJ97OGn_KsfiKLQ191Lo/view?usp=sharing). 
 
 ## License
 This project's code is released under the MIT license.
