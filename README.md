@@ -29,13 +29,13 @@ For downloading videos, please send us an email with your academic email contain
 If you find our dataset useful please consider donation, it would help us a lot. 
 
 btc:
-bc1qtgtflqv0laapltmwczfg8ree70mv90fcwvvsd4
+- bc1qtgtflqv0laapltmwczfg8ree70mv90fcwvvsd4
 
 eth:
-0xCa432902f1270AD076814cD77E03Aef2D09dAc19
+- 0xCa432902f1270AD076814cD77E03Aef2D09dAc19
 
 usdt (trc20):
-TYRPhPT5BZTvn4bcYY4xguL1FSVwchHHrN
+- TYRPhPT5BZTvn4bcYY4xguL1FSVwchHHrN
 
 ## License
 This project's code is released under the MIT license.
