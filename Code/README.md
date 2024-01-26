@@ -30,11 +30,12 @@ Arguments:
 # Citation
 Please cite our work in your project:
 ```
-@misc{2204.08989,
-Author = {Taha Samavati and Mahdi Farvardin},
-Title = {Efficient Deep Learning-based Estimation of the Vital Signs on Smartphones},
-Year = {2022},
-Eprint = {arXiv:2204.08989},
+@article{samavati2022efficient,
+  title={Efficient deep learning-based estimation of the vital signs on smartphones},
+  author={Samavati, Taha and Farvardin, Mahdi and Ghaffari, Aboozar},
+  journal={arXiv preprint arXiv:2204.08989},
+  year={2022}
 }
+
 ```
 [Efficient Deep Learning-based Estimation of the Vital Signs on Smartphones](https://arxiv.org/abs/2204.08989)
