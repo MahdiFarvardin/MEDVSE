@@ -1,4 +1,4 @@
-# Codes for MTVital
+# Codes for MEDVSE
 Official tf-keras implementation of "Efficient Deep Learning-based Estimation of the Vital Signs on Smartphones".
 
 # Usage
